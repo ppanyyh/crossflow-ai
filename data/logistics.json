@@ -1,0 +1,10 @@
+[
+  {"order_id":"CF20260926001","carrier":"USPS","status":"in_transit","last_event":"Departed regional facility, Los Angeles, CA","last_update":"2026-09-14","days_without_update":12,"delivery_proof":null},
+  {"order_id":"CF20260926002","carrier":"Royal Mail","status":"in_transit","last_event":"Item received at export facility","last_update":"2026-09-22","days_without_update":4,"delivery_proof":null},
+  {"order_id":"CF20260926003","carrier":"Australia Post","status":"in_transit","last_event":"Customs clearance in progress","last_update":"2026-09-13","days_without_update":13,"delivery_proof":null},
+  {"order_id":"CF20260926004","carrier":"Canada Post","status":"delivered","last_event":"Delivered to front door","last_update":"2026-09-19","days_without_update":7,"delivery_proof":"Photo proof available in carrier portal"},
+  {"order_id":"CF20260926005","carrier":"DHL","status":"in_transit","last_event":"Shipment information received","last_update":"2026-09-20","days_without_update":6,"delivery_proof":null},
+  {"order_id":"CF20260926006","carrier":"La Poste","status":"exception","last_event":"Delivery address could not be verified","last_update":"2026-09-18","days_without_update":8,"delivery_proof":null},
+  {"order_id":"CF20260926007","carrier":null,"status":"label_not_created","last_event":"Order is being prepared","last_update":"2026-09-24","days_without_update":2,"delivery_proof":null},
+  {"order_id":"CF20260926008","carrier":"Correos","status":"in_transit","last_event":"Arrival at destination country","last_update":"2026-09-24","days_without_update":2,"delivery_proof":null}
+]

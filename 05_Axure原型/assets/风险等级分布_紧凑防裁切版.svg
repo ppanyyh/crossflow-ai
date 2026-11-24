@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="250" viewBox="0 0 340 250">
+  <rect width="340" height="250" rx="12" fill="#FFFFFF"/>
+  <text x="20" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="700" fill="#0F172A">风险等级分布</text>
+  <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="11" fill="#64748B">按当前模拟会话的风险等级统计</text>
+  <g font-family="Microsoft YaHei, Arial, sans-serif">
+    <text x="20" y="93" font-size="13" fill="#334155">高风险</text>
+    <rect x="88" y="81" width="180" height="13" rx="6.5" fill="#FEE2E2"/>
+    <rect x="88" y="81" width="32" height="13" rx="6.5" fill="#DC2626"/>
+    <text x="286" y="93" font-size="13" font-weight="700" fill="#DC2626">18%</text>
+    <text x="20" y="140" font-size="13" fill="#334155">中风险</text>
+    <rect x="88" y="128" width="180" height="13" rx="6.5" fill="#FEF3C7"/>
+    <rect x="88" y="128" width="58" height="13" rx="6.5" fill="#D97706"/>
+    <text x="286" y="140" font-size="13" font-weight="700" fill="#D97706">32%</text>
+    <text x="20" y="187" font-size="13" fill="#334155">低风险</text>
+    <rect x="88" y="175" width="180" height="13" rx="6.5" fill="#DCFCE7"/>
+    <rect x="88" y="175" width="90" height="13" rx="6.5" fill="#16A34A"/>
+    <text x="286" y="187" font-size="13" font-weight="700" fill="#16A34A">50%</text>
+  </g>
+  <line x1="20" y1="211" x2="320" y2="211" stroke="#E2E8F0"/>
+  <text x="20" y="233" font-family="Microsoft YaHei, Arial, sans-serif" font-size="10" fill="#64748B">高风险工单均需进入人工审核流程</text>
+</svg>
